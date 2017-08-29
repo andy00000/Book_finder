@@ -9,3 +9,4 @@ Here list of files in project whis small comments.
 1. Readme.txt - this file
 2. main.py - Main module of "BF"
 3. spec.txt - specification
+4. config.ini - program configuration file
